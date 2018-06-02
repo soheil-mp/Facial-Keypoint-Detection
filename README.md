@@ -71,4 +71,4 @@ cd Facial-Keypoint-Detection
 jupyter notebook
 ```
 
-3. Once you open any of the project notebooks, make sure you are in the correct `cv-nd` environment by clicking `Kernel > Change Kernel > cv-nd`.
+3. Once you open any of the project notebooks, make sure you are in the correct `cv-nd` environment by clicking `Kernel > Change Kernel > cv-nd`. 
